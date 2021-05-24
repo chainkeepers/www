@@ -38,9 +38,12 @@ Keeper boti například arbitrážují mezi decentralizovanými burzami, za odm�
 splácející půjčky nesolventních dlužníků, přerovnávají transakce v mempoolu,
 nebo rebalancují stablecoiny.
 
+Příležitostí je mnoho.  Celý ekosystém se rapidně vyvíjí.  Nové protokoly a
+příležitosti vznikají každý den.
+
 #### Kdo jsou ChainKeepers?
 
-Je nás zatím pět.  
+Je nás pět.
 
   - Ondřej - https://www.linkedin.com/in/ondrej-vostal
   - Martin - https://www.linkedin.com/in/uhuge/
