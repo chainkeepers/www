@@ -18,7 +18,7 @@ Pojď vyvíjet keeper boty s námi.
 - [Python/Javascript blockchain analytik/čka](#pythonjavascript-blockchain-analytik-analytička)
 - [GO/Python blockchain inženýr/ka](#gopython-blockchain-inženýr-inženýrka)
 
-Jednotlivé role se u nás prolýnají a pokud Tě zajímá všechno, je to úplně nejlepší!
+Jednotlivé role se u nás prolínají a pokud Tě zajímá všechno, je to úplně nejlepší!
 
 Pokud Tě něco z toho zaujalo, napiš nám na [ondrej@chainkeepers.io](mailto:ondrej@chainkeepers.io).
 
@@ -45,11 +45,11 @@ Pracujeme vzdáleně.
 
 Jako Blockchain analytik, nebo analytička v ChainKeepers:
 
-  - se od nás můžeš učit rozumět a anlyzovat dění na blockchainu
+  - se od nás můžeš učit rozumět a analyzovat dění na blockchainu
   - bys navrhoval/a a programoval/a keeper boty
   - bys vyhodnocoval/a fungování keeper botů a navrhoval/a jejich vylepšení
   - bys monitoroval/a rozvoj nových protokolů
-  - bys navrhoval/a a vytvářel/a nástroje usnadnující analytickou práci
+  - bys navrhoval/a a vytvářel/a nástroje usnadňující analytickou práci
 
 K analýzám používáme Python.  Hlavní je pro nás přímočarost řešení.  Pokud si to
 situace žádá, nebojíme se použít Javascript.  Naše systémy běží na Linuxu a k
@@ -67,8 +67,8 @@ Pracujeme vzdáleně.
 Jako Blockchain inženýr, nebo inženýrka v ChainKeepers:
 
   - se od nás můžeš učit rozumět fungování blockchain infrastruktury
-  - bys měřil/a, porozumněl/a a optimalizoval/a latence v naší infrastruktuře
-  - bys optimalozoval/a naše keeper boty
+  - bys měřil/a, porozuměl/a a optimalizoval/a latence v naší infrastruktuře
+  - bys optimalizoval/a naše keeper boty
   - bys implementoval/a keeper boty v GO a Pythonu
   - bys vyvíjel/a výkonné simulační prostředí pro objevování nových ziskových příležitostí
 
@@ -94,7 +94,7 @@ Je nás pět.
 Máme mezi sebou přátelskou a otevřenou atmosféru.  Vždy děláme jen to, co nám
 všem dává smysl.
 
-Veříme, že rozvoj DeFi znamená zásadní posun v tom, jaké finanční služby můžou
+Věříme, že rozvoj DeFi znamená zásadní posun v tom, jaké finanční služby můžou
 vzniknout, komu slouží a kdo je vytváří.  DeFi umožňuje skládat finanční služby
 inovativními způsoby a tvořit tak nový, otevřenější a efektivnější svět.  Naši
 keeper boti tak přispívají k rozvoji svobodných programovatelných financí

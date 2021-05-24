@@ -7,7 +7,7 @@ slug = "cs/about"
 
 Naší vizí jsou svobodné programovatelné finance dostupné všem.
 
-Veříme, že jí lze naplnit rozvojem DeFi.
+Věříme, že jí lze naplnit rozvojem DeFi.
 
 Vyvíjíme keeper boty, kteří udržují v DeFi rovnováhu.
 
@@ -19,7 +19,7 @@ Hledáme nové kolegy => [hiring](/cs/hiring).
 
 #### Co je DeFi?
 
-DeFi je systém decentralizovaných finančních služeb tvořený smart contracty na
+DeFi je systém decentralizovaných finančních služeb tvořený smart kontrakty na
 Ethereum blockchainu.  DeFi přináší zásadní posun v tom, jaké finanční služby
 můžou vzniknout, komu slouží, kdo a jak je vytváří.  Umožňuje skládat finanční
 služby inovativními způsoby a tvořit tak nový, otevřenější a efektivnější svět.
