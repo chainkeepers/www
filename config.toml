@@ -38,7 +38,7 @@ disqusShortname = "yourdiscussshortname"
     thumbnail = ""
 
     # Custom CSS
-    font_css = "https://fonts.googleapis.com/css2?family=Alegreya+Sans:400,500,700"
+    font_css = "https://fonts.googleapis.com/css2?family=Alegreya+Sans:500,700"
     custom_css = [ ]
 
     # Alignment of Mobile Menu items
