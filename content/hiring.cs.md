@@ -20,6 +20,8 @@ Pojď vyvíjet keeper boty s námi.
 
 Jednotlivé role se u nás prolýnají a pokud Tě zajímá všechno, je to úplně nejlepší!
 
+Pokud Tě něco z toho zaujalo, napiš nám na [ondrej@chainkeepers.io](mailto:ondrej@chainkeepers.io).
+
 #### Solidity Programátor, Programátorka
 
 Jako Solidity programátor, nebo programátorka v ChainKeepers:
