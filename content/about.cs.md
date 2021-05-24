@@ -57,4 +57,8 @@ Máme mezi sebou přátelskou a otevřenou atmosféru.  Vždy děláme jen to, c
 
 #### Hledáme nové kolegy
 
-[Solidity programátor/ka](/cs/hiring) - pojď s námi vzvíjet smart contracty.
+Pojď vyvíjet keeper boty s námi.
+
+- [Solidity programátor/ka](/cs/hiring#solidity-programátor-programátorka)
+- [Python/Javascript blockchain analytik/čka](/cs/hiring#pythonjavascript-blockchain-analytik-analytička)
+- [GO/Python blockchain inženýr/ka](/cs/hiring#gopython-blockchain-inženýr-inženýrka)
