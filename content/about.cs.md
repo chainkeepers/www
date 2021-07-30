@@ -43,12 +43,14 @@ příležitosti vznikají každý den.
 
 #### Kdo jsou ChainKeepers?
 
-Je nás pět.
+Je nás sedm.
 
   - Ondřej - https://www.linkedin.com/in/ondrej-vostal
-  - Martin - https://www.linkedin.com/in/uhuge/
-  - Ondra - https://www.linkedin.com/in/ondrejraska/
-  - Michael - https://www.linkedin.com/in/repetny/
+  - Martin - https://www.linkedin.com/in/uhuge
+  - Vítek - https://www.linkedin.com/in/v6ak
+  - Marek - https://www.linkedin.com/in/marek-hauzr-8016077b
+  - Ondřej - https://www.linkedin.com/in/ondrejraska
+  - Michael - https://www.linkedin.com/in/repetny
   - David - analytik a trader, ex-pokerový hráč, příležitostný filosof
 
 Jsme vývojáři, matematici, podnikatelé, analytici, tradeři.  Náš záběr nám dává nad ostatními v DeFi náskok.

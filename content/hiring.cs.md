@@ -85,7 +85,7 @@ Pracujeme vzdáleně.
 
 ### Náš Tým
 
-Je nás pět.  
+Je nás sedm.
 
   - Ondřej - https://www.linkedin.com/in/ondrej-vostal
   - Martin - https://www.linkedin.com/in/uhuge
