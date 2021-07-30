@@ -46,7 +46,6 @@ Pracujeme vzdáleně.
 
 Jako Blockchain analytik, nebo analytička v ChainKeepers:
 
-  - se od nás můžeš učit rozumět a analyzovat dění na blockchainu
   - bys navrhoval/a a programoval/a keeper boty
   - bys vyhodnocoval/a fungování keeper botů a navrhoval/a jejich vylepšení
   - bys monitoroval/a rozvoj nových protokolů
@@ -54,7 +53,8 @@ Jako Blockchain analytik, nebo analytička v ChainKeepers:
 
 K analýzám používáme Python.  Hlavní je pro nás přímočarost řešení.  Pokud si to
 situace žádá, nebojíme se použít Javascript.  Naše systémy běží na Linuxu a k
-mnoha analýzám stačí grep, less, jq.
+mnoha analýzám stačí grep, less, jq.  Zkušenosti s blockchainem nejsou
+podmínkou.  Rádi Tě naučíme, jak efektivně dění na blockchainu analyzovat.
 
 Ohromnou výhodou je, pokud
   - umíš rychle sestavit analýzu od zadání k závěrům
@@ -67,13 +67,14 @@ Pracujeme vzdáleně.
 
 Jako Blockchain inženýr, nebo inženýrka v ChainKeepers:
 
-  - se od nás můžeš učit rozumět fungování blockchain infrastruktury
   - bys měřil/a, porozuměl/a a optimalizoval/a latence v naší infrastruktuře
   - bys optimalizoval/a naše keeper boty
   - bys implementoval/a keeper boty v GO a Pythonu
   - bys vyvíjel/a výkonné simulační prostředí pro objevování nových ziskových příležitostí
 
 Naši keeper boti jsou v Pythonu.  K připojení k blockchainu používáme Geth.
+Zkušenosti s blockchainem a GO nejsou nutností.  Rádi Tě všechno o blockchainu a
+GO naučíme.
 
 Ohromnou výhodou je, pokud
   - už dobře rozumíš tomu, jak se v blockchain síti propagují transakce a vytvářejí bloky
@@ -87,9 +88,11 @@ Pracujeme vzdáleně.
 Je nás pět.  
 
   - Ondřej - https://www.linkedin.com/in/ondrej-vostal
-  - Martin - https://www.linkedin.com/in/uhuge/
-  - Ondřej - https://www.linkedin.com/in/ondrejraska/
-  - Michael - https://www.linkedin.com/in/repetny/
+  - Martin - https://www.linkedin.com/in/uhuge
+  - Vítek - https://www.linkedin.com/in/v6ak
+  - Marek - https://www.linkedin.com/in/marek-hauzr-8016077b
+  - Ondřej - https://www.linkedin.com/in/ondrejraska
+  - Michael - https://www.linkedin.com/in/repetny
   - David - analytik a trader, ex-pokerový hráč, příležitostný filosof
 
 Máme mezi sebou přátelskou a otevřenou atmosféru.  Vždy děláme jen to, co nám
