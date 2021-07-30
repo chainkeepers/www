@@ -26,12 +26,13 @@ Pokud Tě něco z toho zaujalo, napiš nám na [ondrej@chainkeepers.io](mailto:o
 
 Jako Solidity programátor, nebo programátorka v ChainKeepers:
 
-  - se od nás můžeš učit používat DeFi protokoly a vyvíjet smart kontrakty
   - bys vyvíjel/a smart kontrakty, které používáme k exekuci naší strategie
   - navrhoval bys test scénáře pro smart kontrakty
-  - v porovnaní s konkurencí bys zkoumal, jak lze naše smart kontrakty vylepšit
+  - zkoumal bys konkurenční kontrakty
+  - vylepšoval naše současné kontrakty
 
-K vývoji v Solidity používáme Hardhat environment.
+K vývoji v Solidity používáme Hardhat environment.  Zkušenosti s vývojem na
+blockchainu nejsou nutností.  Rádi Tě všechno o smart contraktech naučíme.
 
 Ohromnou výhodou je, pokud už
 

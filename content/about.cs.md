@@ -34,9 +34,9 @@ nabízí, a tím zajišťují plynulé a efektivní fungování celého DeFi.
 \
 (https://quantstamp.com/blog/mev-ethereums-dark-forest-and-keeperdao)
 
-Keeper boti například arbitrážují mezi decentralizovanými burzami, za odměny
-splácející půjčky nesolventních dlužníků, přerovnávají transakce v mempoolu,
-nebo rebalancují stablecoiny.
+Keeper boti například arbitrážují mezi decentralizovanými burzami, přebírají
+půjčky nesolventních dlužníků, přerovnávají transakce v mempoolu, nebo
+rebalancují stablecoiny.
 
 Příležitostí je mnoho.  Celý ekosystém se rapidně vyvíjí.  Nové protokoly a
 příležitosti vznikají každý den.
