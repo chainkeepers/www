@@ -7,8 +7,15 @@ slug = "cs/hiring"
 
 Jsme ChainKeepers.  Vyvíjíme keeper boty, kteří udržují v DeFi rovnováhu.
 
-Jsme vývojáři, matematici, podnikatelé, analytici, tradeři.  Náš záběr nám dává
-nad ostatními v DeFi náskok.
+Řešíme problémy, které ještě nikdo jiný nevyřešil v prostředí, kde se nás
+konkurence snaží dnem i nocí předehnat.
+
+Jsme programátoři, matematici, podnikatelé, analytici, tradeři.  Svůj čas
+trávíme zkoumáním DeFi, návrhem a programováním automatických obchodních
+systémů, nastavováním a rozvojem naší infrastruktury, propojováním se s crypto
+komunitou.
+
+Je to právě rozmanitost našeho týmů, co nám dává před konkurencí náskok.
 \
 ([Náš tým](#náš-tým))
 
