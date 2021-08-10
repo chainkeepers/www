@@ -19,7 +19,7 @@ Je to právě rozmanitost našeho týmů, co nám dává před konkurencí násk
 \
 ([Náš tým](#náš-tým))
 
-Pojď vyvíjet keeper boty s námi.
+Pojď vyvíjet keeper boty s námi.  Hledáme...
 
 - [Solidity programátor/ka](#solidity-programátor-programátorka)
 - [Python/Javascript blockchain analytik/čka](#pythonjavascript-blockchain-analytik-analytička)
@@ -29,34 +29,34 @@ Jednotlivé role se u nás prolínají a pokud Tě zajímá všechno, je to úpl
 
 Pokud Tě něco z toho zaujalo, napiš nám na [ondrej@chainkeepers.io](mailto:ondrej@chainkeepers.io).
 
-#### Solidity Programátor, Programátorka
+### Solidity Programátor, Programátorka
 
 Jako Solidity programátor, nebo programátorka v ChainKeepers:
 
   - bys vyvíjel/a smart kontrakty, které používáme k exekuci naší strategie
-  - navrhoval bys test scénáře pro smart kontrakty
-  - zkoumal bys konkurenční kontrakty
-  - vylepšoval naše současné kontrakty
+  - navrhoval/a pro ně test scénáře
+  - zkoumal/a konkurenční kontrakty
+  - optimalizoval/a naše kontrakty
 
-K vývoji v Solidity používáme Hardhat environment.  Zkušenosti s vývojem na
-blockchainu nejsou nutností.  Rádi Tě všechno o smart contraktech naučíme.
+K vývoji v Solidity používáme Hardhat environment, testy mame v
+Javascriptu/TypeScriptu.  Zkušenosti s vývojem na blockchainu nejsou nutností.
+Rádi Tě všechno o smart contraktech naučíme.
 
 Ohromnou výhodou je, pokud už
 
   - rozumíš Solidity a umíš smart kontrakty programovat
-  - dobře rozumíš tomu, jak funguje Ethereum Virtual Machine
+  - dobře rozumíš tomu, jak funguje gas v Ethereum Virtual Machine
   - umíš debugovat smart kontrakty
 
-Pracujeme vzdáleně.
 
-#### Python/Javascript Blockchain Analytik, Analytička
+### Python/Javascript Blockchain Analytik, Analytička
 
 Jako Blockchain analytik, nebo analytička v ChainKeepers:
 
   - bys navrhoval/a a programoval/a keeper boty
-  - bys vyhodnocoval/a fungování keeper botů a navrhoval/a jejich vylepšení
-  - bys monitoroval/a rozvoj nových protokolů
-  - bys navrhoval/a a vytvářel/a nástroje usnadňující analytickou práci
+  - vyhodnocoval/a fungování keeper botů a navrhoval/a jejich vylepšení
+  - monitoroval/a rozvoj nových protokolů
+  - navrhoval/a a vytvářel/a nástroje usnadňující analytickou práci
 
 K analýzám používáme Python.  Hlavní je pro nás přímočarost řešení.  Pokud si to
 situace žádá, nebojíme se použít Javascript.  Naše systémy běží na Linuxu a k
@@ -68,16 +68,15 @@ Ohromnou výhodou je, pokud
   - v shellu Linuxu jsi doma
   - dobře rozumíš tomu, jak se na Ethereum blockchainu vytvářejí bloky
 
-Pracujeme vzdáleně.
 
-#### GO/Python Blockchain Inženýr, Inženýrka
+### GO/Python Blockchain Inženýr, Inženýrka
 
 Jako Blockchain inženýr, nebo inženýrka v ChainKeepers:
 
   - bys měřil/a, porozuměl/a a optimalizoval/a latence v naší infrastruktuře
-  - bys optimalizoval/a naše keeper boty
-  - bys implementoval/a keeper boty v GO a Pythonu
-  - bys vyvíjel/a výkonné simulační prostředí pro objevování nových ziskových příležitostí
+  - optimalizoval/a naše keeper boty
+  - implementoval/a keeper boty v GO a Pythonu
+  - vyvíjel/a výkonné simulační prostředí pro objevování nových ziskových příležitostí
 
 Naši keeper boti jsou v Pythonu.  K připojení k blockchainu používáme Geth.
 Zkušenosti s blockchainem a GO nejsou nutností.  Rádi Tě všechno o blockchainu a
@@ -85,10 +84,7 @@ GO naučíme.
 
 Ohromnou výhodou je, pokud
   - už dobře rozumíš tomu, jak se v blockchain síti propagují transakce a vytvářejí bloky
-  - umíš nastudovat kód Gethu nebo Openetherea a pochopit, jak fungují
-
-Pracujeme vzdáleně.
-
+  - umíš nastudovat kód Gethu a pochopit rozličná zákoutí jeho fungování
 
 ### Náš Tým
 
@@ -112,3 +108,19 @@ keeper boti tak přispívají k rozvoji svobodných programovatelných financí
 dostupných všem.
 
 (https://ethereum.org/nl/defi/)
+
+#### kde pracujeme
+
+ - pracujeme vzdáleně
+ - čas od času se sjedeme na pár dní pracovat na nějaké nádherné místo blízko přírodě
+
+#### jak pracujeme
+
+ - vizi tvoříme všichni, stejně jako všichni formulujeme, co představuje úspěch projektu
+ - shodujeme se na tom, že vše, co děláme, nás posouvá blíž k úspěchu
+ - vždy jdeme za nejlepším nápadem nezávisle na tom, kdo ho měl
+ - každý má k dispozici veškeré prostředky, které potřebuje k tomu, aby sunul projekt kupředu, stačí si říct
+ - klademe velký důraz na jednoduchost a eleganci našich řešení
+ - každý z nás chce být špičkovým expertem v tom, co dělá a být obklopen výjimečnými lidmi
+ - všichni vidí do všeho, ke svojí hluboké expertýze získají tak široký přesah, díky čemuž můžou využít svoji kreativitu naplno
+ - každý má mandát ptát se ostatních, jestli nás jejich práce posouvá blíž k úspěchu
