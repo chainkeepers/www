@@ -36,6 +36,19 @@
             {{ end }}
           {{ end }}
         {{ end }}
+        {{ with .Site.Params.social }}
+          {{ range sort . "weight"}}
+            <li class="social-item">
+              <a href="{{ .url }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }}>
+                {{ if .icon }}
+                  <i class="{{ .icon }}" aria-animate="true"></i>
+                {{ else }}
+                  {{ .name }}
+                {{ end }}
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
       </ul>
     </label>
   </section>

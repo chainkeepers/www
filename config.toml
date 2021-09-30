@@ -29,7 +29,7 @@ disqusShortname = "yourdiscussshortname"
     snsShare = false
     # Popular sns share
     # if you want add sns. please message!
-    enableTwitterShare = false
+    enableTwitterShare = true
     enableFacebookShare = false
     enableHatenaShare = false
     enableLineShare = false
@@ -39,7 +39,7 @@ disqusShortname = "yourdiscussshortname"
 
     # Custom CSS
     font_css = "https://fonts.googleapis.com/css2?family=Alegreya+Sans:500,700"
-    custom_css = [ ]
+    custom_css = ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"]
 
     # Alignment of Mobile Menu items
     itemscentered = true
@@ -49,11 +49,12 @@ disqusShortname = "yourdiscussshortname"
 
     langseparator = ""
 
-# [[params.social]]
-#     name = "Github"
-#     icon = "fab fa-github"
-#     weight = 1
-#     url = "https://github.com/naro143/"
+[[params.social]]
+    name = "github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/chainkeepers/"
+
 # [[params.social]]
 #     name = "Twitter"
 #     icon = "fab fa-twitter"
