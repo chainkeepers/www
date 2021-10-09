@@ -88,15 +88,14 @@ Ohromnou výhodou je, pokud
 
 ### Náš Tým
 
-Je nás sedm.
+Je nás šest.
 
-  - Ondřej - https://www.linkedin.com/in/ondrej-vostal
-  - Martin - https://www.linkedin.com/in/uhuge
-  - Vítek - https://www.linkedin.com/in/v6ak
-  - Marek - https://www.linkedin.com/in/marek-hauzr-8016077b
-  - Ondřej - https://www.linkedin.com/in/ondrejraska
-  - Michael - https://www.linkedin.com/in/repetny
-  - David - analytik a trader, ex-pokerový hráč, příležitostný filosof
+  - Ondřej - matematik - https://www.linkedin.com/in/ondrej-vostal
+  - Vítek - polyglot programátor - https://www.linkedin.com/in/v6ak
+  - Marek - datový věděc - https://www.linkedin.com/in/marek-hauzr-8016077b
+  - Milan - programátor - https://www.linkedin.com/in/milancermak
+  - Jaroslav - devops - https://www.linkedin.com/in/shejbal
+  - Ondřej - programátor - https://www.linkedin.com/in/ondrejchaloupka
 
 Máme mezi sebou přátelskou a otevřenou atmosféru.  Vždy děláme jen to, co nám
 všem dává smysl.
