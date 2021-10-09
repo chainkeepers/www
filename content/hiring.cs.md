@@ -84,6 +84,18 @@ Jako trading analytik, nebo analytička v ChainKeepers:
 
   - bys vyhodnocoval/a fungování keeper botů a navrhoval/a jejich vylepšení
   - monitoroval/a rozvoj nových protokolů
+  - navrhoval systémy pro optimální správu tokenů
+  - zpracovával data z blockchainů a z finančních trhů
+  - budoval matematické základy našich strategií
+
+K analýzám používáme Python a Pandas.  Hlavní je pro nás robustnost a
+přímočarost řešení.  Zkušenosti s blockchainem nejsou podmínkou.  Rádi Tě
+všechno, co víme o zpracování dat v pythonu z blockchainu, naučíme.
+
+Ohromnou výhodou je, pokud
+  - Pandas záš jako své boty
+  - už jsi někdy finanční data anlyzoval
+  - máš rád složitou matematiku
 
 
 ### Python/JavaScript blockchain data inženýr, inženýrka
