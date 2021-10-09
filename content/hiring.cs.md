@@ -95,7 +95,7 @@ všechno, co víme o zpracování dat v pythonu z blockchainu, naučíme.
 Ohromnou výhodou je, pokud
   - Pandas záš jako své boty
   - už jsi někdy finanční data anlyzoval
-  - máš rád složitou matematiku
+  - máš rád pokročilou matematiku
 
 
 ### Python/JavaScript blockchain data inženýr, inženýrka
