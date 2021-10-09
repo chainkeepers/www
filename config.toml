@@ -18,8 +18,8 @@ disqusShortname = "yourdiscussshortname"
  
     author = "ChainKeepers"
     title = "ChainKeepers"
-    info = "Keeping DeFi just work"
-    description = "ChainKeepers - Keeping DeFi just work"
+    info = "keeping DeFi working"
+    description = "ChainKeepers - keeping DeFi working"
     keywords = "blockchain,blog,developer,company,startup"
     # avatarurl = "images/avatar.jpg"
     hideCredits = false
