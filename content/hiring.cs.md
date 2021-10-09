@@ -111,6 +111,7 @@ dostupných všem.
 #### kde pracujeme
 
  - pracujeme vzdáleně
+ - pravidelně se scházíme v co-workingu
  - čas od času se sjedeme na pár dní pracovat na nějaké nádherné místo blízko přírodě
 
 #### jak pracujeme
