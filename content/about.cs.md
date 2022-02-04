@@ -43,13 +43,17 @@ příležitosti vznikají každý den.
 
 ### Kdo jsou ChainKeepers?
 
-Je nás šest.
+Je nás devět.
 
   - Ondřej - matematik - https://www.linkedin.com/in/ondrej-vostal
   - Vítek - polyglot programátor - https://www.linkedin.com/in/v6ak
   - Marek - datový věděc - https://www.linkedin.com/in/marek-hauzr-8016077b
   - Jaroslav - devops - https://www.linkedin.com/in/shejbal
   - Ondřej - programátor - https://www.linkedin.com/in/ondrejchaloupka
+  - Lukáš - agile coach, komunikace - https://www.linkedin.com/in/lukas-p-94a65b10/
+  - Ondřej - programátor - https://www.linkedin.com/in/ondrej-pistora/
+  - Andrej - analytik - https://www.linkedin.com/in/andrej-chepelau-a2b812194/
+  - Milan - datový inženýr - https://www.linkedin.com/in/milan-vu-1b274812b/
 
 Jsme vývojáři, matematici, podnikatelé, analytici, tradeři.  Náš záběr nám dává nad ostatními v DeFi náskok.
 
@@ -69,7 +73,7 @@ Pojď vyvíjet keeper boty s námi.
 
 #### kde pracujeme
 
- - pracujeme vzdáleně
+ - pracujeme vzdáleně a také máme k dispozici moderní kanceláře v Praze
  - čas od času se sjedeme na pár dní pracovat na nějaké nádherné místo blízko přírodě
 
 #### jak pracujeme
