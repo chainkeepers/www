@@ -54,6 +54,7 @@ Je nás devět.
   - Ondřej - programátor - https://www.linkedin.com/in/ondrej-pistora/
   - Andrej - analytik - https://www.linkedin.com/in/andrej-chepelau-a2b812194/
   - Milan - datový inženýr - https://www.linkedin.com/in/milan-vu-1b274812b/
+  - Adam - programátor - https://www.linkedin.com/in/adam-cerny-54254742/
 
 Jsme vývojáři, matematici, podnikatelé, analytici, tradeři.  Náš záběr nám dává nad ostatními v DeFi náskok.
 
