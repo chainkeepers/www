@@ -1,11 +1,7 @@
 +++
-title = "XXX"
-slug = "cs/xxx"
+title = "Hledáme nové kolegy"
+slug = "cs/hiring"
 +++
-
-#
-
-XXXXX
 
 #
 
