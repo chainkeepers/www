@@ -1,7 +1,11 @@
 +++
-title = "Hledáme nové kolegy"
-slug = "cs/hiring"
+title = "XXX"
+slug = "cs/xxx"
 +++
+
+#
+
+XXXXX
 
 #
 
@@ -168,18 +172,15 @@ Ohromnou výhodou je, pokud
 
 ### Náš Tým
 
-Je nás devět.
+Je nás sedm.
 
-  - Ondřej - matematik - https://www.linkedin.com/in/ondrej-vostal
-  - Vítek - polyglot programátor - https://www.linkedin.com/in/v6ak
-  - Marek - datový věděc - https://www.linkedin.com/in/marek-hauzr-8016077b
+  - Ondřej - ceo - https://www.linkedin.com/in/ondrej-vostal
+  - Vítek - blockchain engineer - https://www.linkedin.com/in/v6ak
   - Jaroslav - devops - https://www.linkedin.com/in/shejbal
-  - Ondřej - programátor - https://www.linkedin.com/in/ondrejchaloupka
-  - Lukáš - agile coach, komunikace - https://www.linkedin.com/in/lukas-p-94a65b10/
-  - Ondřej - programátor - https://www.linkedin.com/in/ondrej-pistora/
-  - Andrej - analytik - https://www.linkedin.com/in/andrej-chepelau-a2b812194/
-  - Milan - datový inženýr - https://www.linkedin.com/in/milan-vu-1b274812b/
-  - Adam - programátor - https://www.linkedin.com/in/adam-cerny-54254742/
+  - Ondřej - blockchain engineer - https://www.linkedin.com/in/ondrejchaloupka
+  - Andrej - defi analytik - https://www.linkedin.com/in/andrej-chepelau-a2b812194/
+  - Milan - defi analytik - https://www.linkedin.com/in/milan-vu-1b274812b/
+  - David - defi analytik - https://www.linkedin.com/in/davidhlinstak/
 
 Máme mezi sebou přátelskou a otevřenou atmosféru.  Vždy děláme jen to, co nám
 všem dává smysl.
