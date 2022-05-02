@@ -66,7 +66,8 @@ Pojď vyvíjet keeper boty s námi.
 
 #### kde pracujeme
 
- - pracujeme vzdáleně a také máme k dispozici moderní kanceláře v Praze
+ - pracujeme z moderních kanceláří v Praze
+ - z hlediska work-from-home jsme flexibilní
  - čas od času se sjedeme na pár dní pracovat na nějaké nádherné místo blízko přírodě
 
 #### jak pracujeme
