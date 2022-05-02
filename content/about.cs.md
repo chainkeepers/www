@@ -61,13 +61,8 @@ Máme mezi sebou přátelskou a otevřenou atmosféru.  Vždy děláme jen to, c
 
 Pojď vyvíjet keeper boty s námi.
 
-- [Smart contract programátor/ka](/cs/hiring#smart-contract-programátor-programátorka)
-- [Python programátor/ka](/cs/hiring#python-programátor-programátorka)
-- [Python trading analytik/čka](/cs/hiring#python-trading-analytik-analytička)
-- [Python/JavaScript blockchain data inženýr/ka](/cs/hiring#pythonjavascript-blockchain-data-inženýr-inženýrka)
-- [Expert na blockchain sítě](/cs/hiring#expert-na-blockchain-sítě)
-- [GO/Rust blockchain hacker](/cs/hiring#gorust-blockchain-hacker)
-- [DevOps inženýr/ka](/cs/hiring#devops-inženýr-inženýrka)
+- [Blockchain inženýr/ka](/cs/hiring#blockchain-inženýr-inženýrka)
+- [Trading analytik/čka](/cs/hiring#trading-analytik-analytička)
 
 #### kde pracujeme
 
