@@ -85,9 +85,9 @@ Je nás sedm.
   - Vítek - blockchain engineer - https://www.linkedin.com/in/v6ak
   - Jaroslav - devops - https://www.linkedin.com/in/shejbal
   - Ondřej - blockchain engineer - https://www.linkedin.com/in/ondrejchaloupka
-  - Andrej - defi analytik - https://www.linkedin.com/in/andrej-chepelau-a2b812194/
-  - Milan - defi analytik - https://www.linkedin.com/in/milan-vu-1b274812b/
-  - David - defi analytik - https://www.linkedin.com/in/davidhlinstak/
+  - Andrej - trading analytik - https://www.linkedin.com/in/andrej-chepelau-a2b812194/
+  - Milan - trading analytik - https://www.linkedin.com/in/milan-vu-1b274812b/
+  - David - trading analytik - https://www.linkedin.com/in/davidhlinstak/
 
 Máme mezi sebou přátelskou a otevřenou atmosféru.  Vždy děláme jen to, co nám
 všem dává smysl.
