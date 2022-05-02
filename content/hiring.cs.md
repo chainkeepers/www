@@ -38,47 +38,32 @@ Pokud by ses kryptem zabýval rád, rozvoj DeFi tě fascinuje a chtěl by ses ho
 [ondrej@chainkeepers.io](mailto:ondrej@chainkeepers.io) určitě přijdeme na to,
 jak :-)
 
-### Smart contract programátor, programátorka
 
-Jako smart contract programátor, nebo programátorka v ChainKeepers:
+### Blockchain inženýr, inženýrka
 
-  - bys vyvíjel/a smart kontrakty, které používáme k exekuci naší strategie
-  - navrhoval/a pro ně test scénáře
-  - zkoumal/a konkurenční kontrakty
-  - optimalizoval/a naše kontrakty
+Jako Blockchain inženýr, inženýrka v ChainKeepers:
 
-K vývoji smart contractů používáme Solidity a Hardhat environment, testy máme v
-Javascriptu/TypeScriptu.  Na Solaně vyvíjíme v Rustu a Anchor.  Zkušenosti s
-vývojem na blockchainu nejsou nutností.  Rádi Tě všechno o smart contraktech
-naučíme.
-
-Ohromnou výhodou je, pokud už
-
-  - rozumíš Solidity a deploynul jsi smart contract na Ethereu, Maticu, Celo nebo Avalanche
-  - rozumíš Rustu a umíš vyvíjet smart kontrakty na Solaně nebo Near
-  - dobře rozumíš tomu, jak funguje gas v Ethereum Virtual Machine
-
-
-### Python programátor, programátorka
-
-Jako Python programátor, nebo programátorka v ChainKeepers:
-
-  - bys navrhoval/a a programoval/a keeper boty
-  - navrhoval/a a vytvářel/a nástroje usnadňující analytickou práci
-  - navrhoval/a a vytvářel/a podpůrné programy
+  - bys vyvíjel/a a optimalizoval/a smart kontrakty, které používáme k exekuci naší strategie
+  - bys navrhoval/a a programoval/a datovou infrastrukturu a další nástroje usnadňující analytickou práci
+  - bys zkoumal/a rozličné blockchainy a navrhoval, jak z nich dostat ta nejčerstvější data a dostat na ně transakce dřív, než konkurence
 
 Systémy programujeme především v Pythonu.  Hlavní je pro nás přímočarost řešení.
 Pokud si to situace žádá, nebojíme se použít Javascript.  Naše systémy běží na
-Linuxu.  Zkušenosti s blockchainem nejsou podmínkou.  Rádi Tě naučíme všechno,
-co o efektivním návrhu programů nad blockchainem víme.
+Linuxu.
 
-Ohromnou výhodou je, pokud
+Ohromnou výhodou je, pokud už
+  - jsi někdy deploynul vlastní smart contract na Ethereu, Solaně, Maticu, Nearu nebo Avalanchi
+  - rozumíš Rustu a umíš vyvíjet smart kontrakty na Solaně nebo Nearu
   - v shellu Linuxu jsi doma
-  - dobře rozumíš tomu, jak se na Ethereum blockchainu vytvářejí bloky
+  - dobře rozumíš tomu, jak se na tvém oblíbeném blockchainu vytvářejí a propagují bloky
   - Ti dělá radost navrhovat a psát nádherné a stručné programy
+  - umíš nastudovat kód Gethu v GO, nebo kód v Rustu a pochopit rozličná zákoutí jeho fungování
+
+Pokud nemáš s blockchainem žádné zkušenosti, nezoufej.  Napiš nám a my Tě odkážeme
+na mnoho materiálů, kde se budeš moct mnoho potřebného naučit.
 
 
-### Python trading analytik, analytička
+### Trading analytik, analytička
 
 Jako trading analytik, nebo analytička v ChainKeepers:
 
@@ -96,74 +81,7 @@ Ohromnou výhodou je, pokud
   - Pandas záš jako své boty
   - už jsi někdy finanční data anlyzoval
   - máš rád pokročilou matematiku
-
-
-### Python/JavaScript blockchain data inženýr, inženýrka
-
-Jako blockchain data inženýr, nebo inženýrka v ChainKeepers:
-
-  - bys zkoumal rozličné blockchainy a navrhoval, jak z nich dostat ta nejčerstvější data
-  - navrhoval/a a vytvářel/a nástroje usnadňující analytickou práci
-
-K analýzám používáme Python.  Hlavní je pro nás přímočarost řešení.  Pokud si to
-situace žádá, nebojíme se použít Javascript.  Naše systémy běží na Linuxu a k
-mnoha analýzám stačí grep, less, jq.  Zkušenosti s blockchainem nejsou
-podmínkou.  Rádi Tě všechno, co víme o datech z blockchainu, naučíme.
-
-Ohromnou výhodou je, pokud
-  - v shellu Linuxu jsi doma
-  - dobře rozumíš tomu, jak se na Ethereum blockchainu vytvářejí bloky
-  - víš, co je mempool
-  - umíš na Ethereu číst logs z nejnovějších publikovaných bloků
-
-
-### Expert na blockchain sítě
-
-Jako expert na blockchain sítě v ChainKeepers:
-
-  - bys nás připojil na 5 blockchainů s 99% SLA a nejrychlejšími linkami
-  - bys měřil/a, porozuměl/a a zmenšil/a latence v naší infrastruktuře
-  - vylepšil/a nastavení našich blockchain klientů a serverů ke snížení latencí
-
-Zkušenosti s blockchainem nejsou nutností.  Rádi Tě všechno, co o blockchainu
-víme, naučíme.
-
-Ohromnou výhodou je, pokud
-  - už dobře rozumíš tomu, jak se v blockchain síti propagují transakce a vytvářejí bloky
-  - umíš nastudovat kód Gethu v GO, nebo kód v Rustu a pochopit rozličná zákoutí jeho fungování
-
-
-### GO/Rust blockchain hacker
-
-Jako blockchain hacker v ChainKeepers:
-
-  - bys měřil/a, porozuměl/a a optimalizoval/a latence v naší infrastruktuře
-  - implementoval/a změny Gethu a Solana validatoru
-  - vyvíjel/a simulační nástroje pro objevování nových ziskových příležitostí
-
-Naši keeper boti jsou v Pythonu.  K připojení k blockchainu používáme Geth a
-Solana validatora.  Zkušenosti s blockchainem, GO a Rustem nejsou nutností.
-Rádi Tě všechno, co o blockchainu, GO a Rustu víme, naučíme.
-
-Ohromnou výhodou je, pokud
-  - už dobře rozumíš tomu, jak se v blockchain síti propagují transakce a vytvářejí bloky
-  - umíš nastudovat kód Gethu a pochopit rozličná zákoutí jeho fungování
-
-
-### DevOps inženýr, inženýrka
-
-Jako DevOps inženýr, nebo inženýrka v ChainKeepers:
-
-  - bys vytvářel monitorování našich aplikací a blockchain nodů, definoval a zajišťoval 99% SLA
-  - bys navrhnul a nastavil on-push CI/CD našeho kódu
-  - bys navrhoval, spravoval a rozšiřoval naší infrastrukturu
-
-Na správu serverů používáme Ansible.  Servery máme v cloudu.  Zkušenosti s
-blockchainem nejsou nutností.  Rádi Tě všechno, co o blockchainu víme, naučíme.
-
-Ohromnou výhodou je, pokud
-  - pristupuješ k nastavování serverů Ansiblem jako ke kódění
-  - jsi už někdy spustil geth
+  - umíš naprogramovat model od A do Z, který poběží na produkci
 
 
 ### Náš Tým
