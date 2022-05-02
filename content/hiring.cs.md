@@ -21,15 +21,8 @@ Je to právě rozmanitost našeho týmů, co nám dává před konkurencí násk
 
 Pojď vyvíjet keeper boty s námi.  Hledáme...
 
-- [Smart contract programátor/ka](#smart-contract-programátor-programátorka)
-- [Python programátor/ka](#python-programátor-programátorka)
-- [Python trading analytik/čka](#python-trading-analytik-analytička)
-- [Python/JavaScript blockchain data inženýr/ka](#pythonjavascript-blockchain-data-inženýr-inženýrka)
-- [Expert na blockchain sítě](#expert-na-blockchain-sítě)
-- [GO/Rust blockchain hacker](#gorust-blockchain-hacker)
-- [DevOps inženýr/ka](#devops-inženýr-inženýrka)
-
-Jednotlivé role se u nás prolínají a pokud Tě zajímá všechno, je to úplně nejlepší!
+- [Blockchain inženýr/ka](#blockchain-inženýr-inženýrka)
+- [Trading analytik/čka](#trading-analytik-analytička)
 
 Pokud Tě něco z toho zaujalo, napiš nám na [ondrej@chainkeepers.io](mailto:ondrej@chainkeepers.io).
 
