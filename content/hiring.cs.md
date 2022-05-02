@@ -38,7 +38,7 @@ Jako Blockchain inženýr, inženýrka v ChainKeepers:
 
   - bys vyvíjel/a a optimalizoval/a smart kontrakty, které používáme k exekuci naší strategie
   - bys navrhoval/a a programoval/a datovou infrastrukturu a další nástroje usnadňující analytickou práci
-  - bys zkoumal/a rozličné blockchainy a navrhoval, jak z nich dostat ta nejčerstvější data a dostat na ně transakce dřív, než konkurence
+  - bys zkoumal/a rozličné blockchainy a navrhoval/a, jak z nich dostat ta nejčerstvější data a dostat na ně transakce dřív, než konkurence
 
 Systémy programujeme především v Pythonu.  Hlavní je pro nás přímočarost řešení.
 Pokud si to situace žádá, nebojíme se použít Javascript.  Naše systémy běží na
