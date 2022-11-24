@@ -126,10 +126,10 @@ disqusShortname = "yourdiscussshortname"
             #     weight = 3
             #     url = "cs/projects"
 
-            [[languages.cs.menu.main]]
-                name = "HLEDÁME POSILY"
-                weight = 4
-                url = "cs/hiring"
+            # [[languages.cs.menu.main]]
+            #     name = "HLEDÁME POSILY"
+            #     weight = 4
+            #     url = "cs/hiring"
 
             [[languages.cs.menu.main]]
                 name = "KONTAKT"

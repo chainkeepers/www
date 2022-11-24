@@ -1,5 +1,5 @@
 +++
-title = "Napsali o nás"
+title = "V médiích o nás"
 slug = "cs/media"
 +++
 

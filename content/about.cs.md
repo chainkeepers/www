@@ -15,8 +15,6 @@ Tím podporujeme rozvoj DeFi.
 
 Výsledkem bude otevřenější a efektivnější svět.
 
-Hledáme nové kolegy => [hiring](/cs/hiring).
-
 ### Co je DeFi?
 
 DeFi je systém decentralizovaných finančních služeb tvořený smart kontrakty na
@@ -43,26 +41,14 @@ příležitosti vznikají každý den.
 
 ### Kdo jsou ChainKeepers?
 
-Je nás sedm.
+Jsme dva.
 
   - Ondřej - ceo - https://www.linkedin.com/in/ondrej-vostal
-  - Vítek - blockchain engineer - https://www.linkedin.com/in/v6ak
-  - Jaroslav - devops - https://www.linkedin.com/in/shejbal
-  - Ondřej - blockchain engineer - https://www.linkedin.com/in/ondrejchaloupka
-  - Andrej - defi analytik - https://www.linkedin.com/in/andrej-chepelau-a2b812194/
   - Milan - defi analytik - https://www.linkedin.com/in/milan-vu-1b274812b/
-  - David - defi analytik - https://www.linkedin.com/in/davidhlinstak/
 
 Jsme vývojáři, matematici, podnikatelé, analytici, tradeři.  Náš záběr nám dává nad ostatními v DeFi náskok.
 
 Máme mezi sebou přátelskou a otevřenou atmosféru.  Vždy děláme jen to, co nám všem dává smysl.
-
-### Hledáme nové kolegy
-
-Pojď vyvíjet keeper boty s námi.
-
-- [Blockchain inženýr/ka](/cs/hiring#blockchain-inženýr-inženýrka)
-- [Trading analytik/čka](/cs/hiring#trading-analytik-analytička)
 
 #### kde pracujeme
 
